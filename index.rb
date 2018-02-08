@@ -39,7 +39,7 @@ class Elevator
 	end
 
 	def cherry_greeting
-		"#{@floor} Hello scum!"
+		"Floor:#{@floor} Hello scum!"
 	end
 end
 
